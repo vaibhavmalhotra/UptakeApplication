@@ -1,0 +1,18 @@
+Tools and Technologies Used :
+
+1)JDK 1.8.0_51
+2)Apache Tomcat 8.0.24
+3)Spring 3.0.5.RELEASE
+4)Hibernate 3.3.2.GA
+5)H2 Inmemory Database 1.2.126
+6)Jackson Core and Mapper APIs 1.9.13
+
+
+For Spring MVC Web Application:
+
+http://localhost:8080/UptakeWebApplication/index - This will bring up the Home Page for the Spring MVC Web Application and it is pretty much self explanatory after that.
+
+
+
+For Spring MVC Rest Application :
+
